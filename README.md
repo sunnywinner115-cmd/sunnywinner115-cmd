@@ -1,73 +1,78 @@
-Hi there, I'm [Jittaboina Sunny Yadav] 👋
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
-</div>
-🚀 About Me
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sunnywinner115-cmd.sunnywinner115-cmd" />
 
-🔭 I'm currently working on [Refelx JSON ]
-🌱 I'm currently learning [Applied AI,Prompt Engineering]
-👯 I'm looking to collaborate on [AI based projects]
-💬 Ask me about [Generative AI and AI Agents]
-📫 How to reach me: [Sunnywinner115@gmail.com]
-⚡ Fun fact: [Trying to find the easy soultion to the hard problem]
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jittaboina+Sunny+yadav!;" />
+</h1>
 
-🛠️ Tech Stack
-Languages
-Show Image
-Show Image
-Show Image
-Show Image
-Frontend
-Show Image
-Show Image
-Show Image
-Show Image
-Backend
-Show Image
-Show Image
-Show Image
-Database
-Show Image
-Show Image
-Show Image
-Tools & Technologies
-Show Image
-Show Image
-Show Image
-📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jittaboina Sunny Yadav&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jittaboina Sunny Yadav&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jittaboina Sunny Yadav&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jittaboina Sunny Yadav&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jittaboina Sunny Yadav&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-🔗 Connect with Me
-<div align="center">
-Show Image
-Show Image
-Show Image
-Show Image
-</div>
-💼 Featured Projects
-Project Name 1
-Edge Computing - Enhanced Resource Management
- System For Smart Grid Using Deep Learning Techniques — TensorFlow, PyTorch
+<h3 align="center">A passionate software developer from India 🇨🇦</h3>
 
-Project Name 2
-Analysing Bike Sharing Demand using Machine Learning — Python, Matplotlib
-
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jittaboina Sunny Yadav&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-⭐️ From Jittaboina Sunny Yadav
-"Talk is cheap. Show me the code." - Linus Torvalds
+ 
+ 🔭 I’m currently working on **a Reflex Jason project**
+ 
+ 🌱 I’m currently learning **React, Python, AWS, HTML, CSS, Javascript**
+
+💬 Ask me about **python, React, Javascript... or anything [here]**
+
+⚡ Fun fact **The term "Machine Learning" was actually coined way back in the 1959 by Arthur Samuel**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="sunnywinner115@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/
+sunny-winner-115-sunny
+" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/sunnywinner115-cmd" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sunnywinner115-cmd/sunnywinner115-cmd/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-sunnywinner115-cmd.vercel.app/?user=sunnywinner115-cmd&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-sunnywinner115-cmd.vercel.app/api?username=sunnywinner115-cmd&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-sunnywinner115-cmd.vercel.app/api/top-langs/?username=sunnywinner115-cmd&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
