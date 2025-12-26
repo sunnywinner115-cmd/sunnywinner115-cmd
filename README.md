@@ -1,6 +1,10 @@
 # 💫 About Me:
 🔭 I’m currently working on Reflex JSON <br>👯 I’m looking to collaborate on Applied AI projects<br>🤝 I’m looking for help with React<br>🌱 I’m currently learning React<br>💬 Ask me about Python, Javascript.<br>⚡ Fun fact The term "machine learning" was actually coined way back in 1959 by Arthur Samuel.
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ sunny-winner-115-sunny) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/sunnywinner) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/sunnywinner) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/sunnywinner115) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Sunnywinner4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sunnywinner115@gmail.com) 
